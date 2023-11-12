@@ -5,7 +5,7 @@
     --secondary-color : #2c4755;
     --section-padding : 40px;
     --section-background : #f6f6f6;
-    --main-transition: var(--main-transition);
+    --main-transition: .3s;
   }
   
   * {

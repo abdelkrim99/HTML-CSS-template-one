@@ -10,7 +10,7 @@ This project represents a remake of an existing website with several enhancement
 - **Enhancements and Improvements :** This project is not just a replication; it's an upgraded version with tweaks and changes aimed at providing a better user experience.
 
  ## How to View
-To explore the website and see the improvements firsthand, simply click [here](https://abdelkrim99.github.io/HTML-CSS-template-two/). 
+To explore the website and see the improvements firsthand, simply click [here](https://abdelkrim99.github.io/HTML-CSS-template-one/). 
 Feel free to navigate through the pages, test the responsiveness, and appreciate the enhancements made.
 
 ## Feedback and Contributions
